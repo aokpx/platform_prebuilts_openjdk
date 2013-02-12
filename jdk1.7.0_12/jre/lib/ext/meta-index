@@ -8,18 +8,12 @@ sun/net
 # localedata.jar
 sun/text
 sun/util
-# sunec.jar
+! sunec.jar
 sun/security
-META-INF/ORACLE_J.RSA
-META-INF/ORACLE_J.SF
-# sunjce_provider.jar
+! sunjce_provider.jar
 com/sun/crypto/
-META-INF/ORACLE_J.RSA
-META-INF/ORACLE_J.SF
-# sunpkcs11.jar
+! sunpkcs11.jar
 sun/security
-META-INF/ORACLE_J.RSA
-META-INF/ORACLE_J.SF
 # zipfs.jar
 META-INF/services/java.nio.file.spi.FileSystemProvider
 com/sun/nio/
