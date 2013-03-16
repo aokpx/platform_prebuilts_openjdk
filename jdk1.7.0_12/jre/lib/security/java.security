@@ -129,13 +129,12 @@ package.access=sun.,\
                com.sun.xml.internal.ws.,\
                com.sun.imageio.,\
                com.sun.istack.internal.,\
-               com.sun.jmx.defaults.,\
-               com.sun.jmx.remote.util.,\
+               com.sun.jmx.,\
+               com.sun.proxy.,\
                com.sun.org.apache.xerces.internal.utils.,\
                com.sun.org.apache.xalan.internal.utils.,\
                com.sun.org.glassfish.external.,\
-               com.sun.org.glassfish.gmbal.,\
-               oracle.jrockit.jfr.
+               com.sun.org.glassfish.gmbal.
 
 #
 # List of comma-separated packages that start with or equal this string
@@ -153,13 +152,12 @@ package.definition=sun.,\
                    com.sun.xml.internal.ws.,\
                    com.sun.imageio.,\
                    com.sun.istack.internal.,\
-                   com.sun.jmx.defaults.,\
-                   com.sun.jmx.remote.util.,\
+                   com.sun.jmx.,\
+                   com.sun.proxy.,\
                    com.sun.org.apache.xerces.internal.utils.,\
                    com.sun.org.apache.xalan.internal.utils.,\
                    com.sun.org.glassfish.external.,\
-                   com.sun.org.glassfish.gmbal.,\
-                   oracle.jrockit.jfr.
+                   com.sun.org.glassfish.gmbal.
 
 #
 # Determines whether this properties file can be appended to
