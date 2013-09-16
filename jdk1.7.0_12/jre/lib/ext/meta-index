@@ -8,8 +8,6 @@ sun/net
 # localedata.jar
 sun/text
 sun/util
-! sunec.jar
-sun/security
 ! sunjce_provider.jar
 com/sun/crypto/
 ! sunpkcs11.jar
